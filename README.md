@@ -12,3 +12,4 @@ Inputs:
 
 Output:
 - Simple Interest
+Simple interest calculator project
